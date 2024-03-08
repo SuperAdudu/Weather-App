@@ -1,0 +1,7 @@
+Run pip install before run file.py:
+    pip install geopy
+    pip install numpy==1.24.0
+    pip install timezonefinder==5.2.0
+    pip install pytz
+
+After run app, you can search the weather in london, delhi, surat,...
